@@ -2,20 +2,21 @@
 title: Tasks
 permalink: /tasks/
 ---
-<!-- {: .col-md-10 .col-lg-8 .mx-auto} -->
-![alt text]({{ '/assets/theme/images/task1.png' | relative_url }}){: .col-md-10}
-### **<span style="color:#2B547E">    Task 1 - Seizure detection</span>**
+
+### **<span style="color:#2B547E">Task 1 - Seizure detection</span>**
 \
 The first task of this challenge involves developing a ML model for detecting seizures in the wearable SD data. As training set the contestants will be able to use the full SeizeIT1 dataset (vEEG, bhe-EEG, ECG), while the test set will contain data captured with the wearable SD device (bhe-EEG and ECG, no vEEG). The contestants are allowed but not obliged to use (in a transfer learning-scheme) the information of the full scalp EEG (vEEG) in the training set. As a baseline method, for comparison purposes, the approach presented in Vandecasteele et. al [1] can be used.
 
+{: .clearfix}![alt text]({{ '/assets/theme/images/task1.png' | relative_url }}){: .rounded .float-start}
 A pretrained model (either in Python or in Matlab) must be submitted. Additionally, the routines used for pre- and post-processing should be included. The models must provide a vector of zeros (non-seizure) and ones (seizure) as an output with length equal to the number of seconds of a recording. The framework should receive as input the wearable EEG data from the SD device (2-channel EEG time series).
 
 &nbsp;  
 
 ### **<span style="color:#2B547E">Task 2 - Data centric seizure detection</span>**
 \
-Data is the main ingredient for developing automated classifiers. Most researchers have focused on developing state-of -the-art AI architectures in order to achieve better classification performance in many diverse tasks. Recently, the concept of ‘data-centric AI’ has risen as a promising option for achieving higher and better performances in hard classification problems. 
+Data is the main ingredient for developing automated classifiers. Most researchers have focused on developing state-of -the-art AI architectures in order to achieve better classification performance in many diverse tasks. Recently, the concept of ‘data-centric AI’ has risen as a promising option for achieving higher and better performances in hard classification problems.
 
+{: .clearfix}![alt text]({{ '/assets/theme/images/task1.png' | relative_url }}){: .rounded .float-end}
 Usually, training a model with high volumes of data tends to aid its robustness and reliability. Deep neural network schemas exhibit low bias along with high variance; the common approach of handling the variance problem is the employment of extra data. However, it is also known that data quality highly impacts the behavior of ML models. Poor performances are seen in out-of-distribution data instances and within heterogeneous regions of in-distribution data. Furthermore, datasets may contain labeling inconsistencies which can cause deceptions when training automated models for certain tasks. In the epilepsy use case, datasets suffer from a high imbalance between classes, where seizure events are short and rare when compared to the overall recordings.
 
 We argue that by focusing on the quality of the data and by including representative cases in the training set, it is possible to achieve optimal performances within seizure detection frameworks. In contrast to task 1, the objective of task 2 is to apply data manipulation techniques in order to obtain the best performance (in terms of robustness and generalizability) of the provided model for wearable seizure detection.
