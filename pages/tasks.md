@@ -3,7 +3,7 @@ title: Tasks
 permalink: /tasks/
 ---
 
-![alt text]({{ '/assets/theme/images/task1.png' | relative_url }}){: .rounded .float-start}
+![alt text]({{ '/assets/theme/images/task1.png' | relative_url }}){: .rounded .float-start .mx-auto}
 ### **<span style="color:#2B547E">Task 1 - Seizure detection</span>**
 \
 The first task of this challenge involves developing a ML model for detecting seizures in the wearable SD data. As training set the contestants will be able to use the full SeizeIT1 dataset (vEEG, bhe-EEG, ECG), while the test set will contain data captured with the wearable SD device (bhe-EEG and ECG, no vEEG). The contestants are allowed but not obliged to use (in a transfer learning-scheme) the information of the full scalp EEG (vEEG) in the training set. As a baseline method, for comparison purposes, the approach presented in Vandecasteele et. al [1] can be used.
