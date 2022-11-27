@@ -9,7 +9,7 @@ permalink: /regulations/
 \
 Participants are subject to the following rules:
 
-- Participants must register via the [registration form]({{ '/register/' | relative_url }}). After the registration, the participants will receive instructions and will be granted access to the dataset and code when released and instructions on how to upload their submissions.
+- Participants must register via the [registration form]({{ '/registration/' | relative_url }}). After the registration, the participants will receive instructions and will be granted access to the dataset and code when released and instructions on how to upload their submissions.
 
 - The participation of groups is encouraged. Each group/participant can submit only once, either as an individual or as a team. It is not possible to submit both individually and as a team.
 
