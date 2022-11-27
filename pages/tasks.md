@@ -3,6 +3,7 @@ title: Tasks
 permalink: /tasks/
 ---
 
+![alt text]({{ '/assets/theme/images/task1.png' | relative_url }}){: .rounded .float-start}
 ### **<span style="color:#2B547E">Task 1 - Seizure detection</span>**
 \
 The first task of this challenge involves developing a ML model for detecting seizures in the wearable SD data. As training set the contestants will be able to use the full SeizeIT1 dataset (vEEG, bhe-EEG, ECG), while the test set will contain data captured with the wearable SD device (bhe-EEG and ECG, no vEEG). The contestants are allowed but not obliged to use (in a transfer learning-scheme) the information of the full scalp EEG (vEEG) in the training set. As a baseline method, for comparison purposes, the approach presented in Vandecasteele et. al [1] can be used.
@@ -26,9 +27,10 @@ The output should be a vector of zeros (non-seizure) and ones (seizure) for each
 
 As a baseline, the metrics were computed with a model trained using all bhe-EEG seizure data segments of SeizeIT1 and randomly selected non-seizure data segments with a balancing factor of 10. The performance obtained was 58.22% sensitivity with a 117.12 false alarm rate (false alarms per hour).
 
-\
-\
-\
+&nbsp;  
+
+#### References
+
 [1] K. Vandecasteele et al., “Visual seizure annotation and automated seizure detection using behind-the-ear elec- troencephalographic channels,” Epilepsia, vol. 61, no. 4, pp. 766–775, 2020.
 
 [2] S. Roy et al., “Chrononet: A deep recurrent neural net- work for abnormal eeg identification,” in Artificial Intel-
