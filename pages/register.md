@@ -1,10 +1,8 @@
 ---
 layout: registration_layout
-title: Register
+title: Registration
 description: Register for the challenge
-permalink: /register/
+permalink: /registration/
 ---
-
-# Registration
 
 Register by filling the form below.
