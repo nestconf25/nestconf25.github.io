@@ -7,8 +7,8 @@ baseurl: "/seizure_detection_challenge"                   # Only required if you
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
 
 # SOCIAL PROFILES
-social:
-  email: name@example.com
+# social:
+#   email: name@example.com
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 0                        # Show x number of latest posts on homepage, can be 0
