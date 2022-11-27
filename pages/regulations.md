@@ -15,6 +15,8 @@ Participants are subject to the following rules:
 
 - The data can only be used in the context of the ICASP 2023 Grand Challenge. For any other use of the data the participants must contact Prof. Wim Van Paesschen (wim.vanpaesschen@uzleuven.be).
 
+- The intellectual property (IP) is not transferred to the challenge organizers, i.e., the participants remain the owners of the code shared (when the code is made publicly available, an appropriate license should be added).
+
 - The participants ranking in the top 5 upon centralising results for all submissions will be invited to to submit a 2-page paper and present it at ICASSP 2023 (more information [here](https://2023.ieeeicassp.org/call-for-sp-grand-challenges/)).
 
 - The organizers, based on the amount and quality of submissions, will explore the possibility of hosting an article collection (Research Topic) on a related journal.
