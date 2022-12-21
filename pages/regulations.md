@@ -33,3 +33,8 @@ A weighting factor of -0.4 will be used in order to balance sensitivity and FA r
 
 \
 ![Scoring]({{ '/assets/theme/images/score.png' | relative_url }})
+
+\
+### References
+
+[1] Ziyabari, S., et al., "Objective evaluation metrics for automatic classification of EEG events", 2017. arXiv preprint arXiv:1712.10107.
