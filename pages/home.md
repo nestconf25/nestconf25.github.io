@@ -26,7 +26,7 @@ More information about the [tasks]({{ '/tasks/' | relative_url }}), [datasets]({
 ## **<span style="color:#2B547E">Important Dates</span>**
 
 - **Dataset release:** December 26, 2022
-- **Validation data release:** January, 15 2023
+- **Validation data release:** January, 10 2023
 - **Submission deadline:** February 4, 2023
 - **Paper submission** (only for top 5 teams): February 20, 2022
 
