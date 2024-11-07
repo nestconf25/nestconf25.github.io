@@ -6,6 +6,8 @@ baseurl: "/seizure_detection_challenge"                   # Only required if you
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
 
+theme: jekyll-theme-minimal
+
 # SOCIAL PROFILES
 # social:
 #   email: name@example.com
