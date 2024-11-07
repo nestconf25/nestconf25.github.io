@@ -12,10 +12,10 @@ Patients underwent video-EEG monitoring using the standardized 25-electrode arra
 \
 ![seizeit2]({{ '/assets/theme/images/sz2_setup.png' | relative_url }}){: .rounded .float-end}
 
-
+\
 In the context of this challenge, only focal patients were included in the dataset. The data was subsequently separated in a fixed training, validation and test sets. The training and validation sets will be provided to participants, the test set is privately kept and used for the final evaluation.
 
-
+&nbsp;
 #### Data format:
 
 The raw data is in the form of **.edf** (European Data Format). The annotations are provided in **.tsv** (tab separated values) files. For every seizure, the first column represents the starting point (in seconds) and the second one the end point of the event. The third, fourth and fifth columns indicate the type of event and, if aplicable, the seizure hemisphere and lobe respectively. The last column contains extra information indicated by the annotators.
