@@ -1,7 +1,7 @@
 ---
 layout: home
 title: BIOMED Seizure Detection Challenge
-description: ICASSP 2023 Grand-challenge
+description: 
 background: /assets/theme/images/header.png
 permalink: /
 ---
