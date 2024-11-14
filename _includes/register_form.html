@@ -8,6 +8,25 @@
   <button type="submit">Send</button>
 </form> -->
 
+const form = document.querySelector('form');
+const thankYouMessage = document.querySelector('#thank-you-message');
+form.addEventListener('submit', (e) => {
+  e.preventDefault();
+  thankYouMessage.classList.add('show');
+  setTimeout(() => form.submit(), 2000);
+});
+
+#thank-you-message {
+    display: none;
+}
+
+#thank-you-message.show {
+    display: block;
+}
+
+<p id="thank-you-message">
+    Registration submitted!
+</p>
 <form accept-charset="UTF-8" action="https://script.google.com/macros/s/AKfycbz2gEy0Cbnvogn5mvGhdPbG6QDlX9a1gVz0wBfOOotXEUr4Q4CFmp1PQhAyqkJMTp1J/exec" method="POST" enctype="multipart/form-data" target="_blank">
     <div class="form-group">
         <label for="InputName" required="required"> Name</label>
@@ -50,6 +69,6 @@
         <input type="checkbox" name="data" id="dataagr" required="required">
     </div>
     <hr>
-    <button type="submit" class="btn btn-primary" name="redirect" value="https://biomedepi.github.io/seizure_detection_challenge/registrationS/">Submit</button>
+    <button type="submit" class="btn btn-primary">Submit</button>
     <input type="hidden" name="_gotcha" style="display:none !important">
   </form>
