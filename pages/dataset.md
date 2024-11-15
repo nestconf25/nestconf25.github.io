@@ -15,6 +15,8 @@ Patients underwent video-EEG monitoring using the standardized 25-electrode arra
 \
 In the context of this challenge, only focal patients were included in the dataset. The data was subsequently separated in a fixed training, validation and test sets. The training and validation sets will be provided to participants, the test set is privately kept and used for the final evaluation.
 
+**More information regarding the dataset will follow when the challenge begins, after registration.**
+
 &nbsp;
 #### Data format:
 
