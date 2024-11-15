@@ -32,6 +32,9 @@ Accounting for the under-reporting of FAs by the OVLP method, we will combine tw
 \
 The test data contains wearable EEG recorded at in-hospital and outside of the hospital. The score will be separately calculated for each data type. The final score will be composed by a weighted average of each score (to be determined).
 
+
+**Submission guidelines will follow before the challenge begins.**
+
 &nbsp;  
 
 #### References
