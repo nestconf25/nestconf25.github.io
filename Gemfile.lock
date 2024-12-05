@@ -195,6 +195,8 @@ GEM
     jekyll-theme-modernist (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
+    jekyll-theme-petridish (3.0)
+      jekyll (>= 3.9)
     jekyll-theme-primer (0.6.0)
       jekyll (> 3.5, < 5.0)
       jekyll-github-metadata (~> 2.9)
@@ -275,6 +277,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-theme-petridish
+  minima (~> 2.5)
 
 BUNDLED WITH
    2.5.23
