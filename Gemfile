@@ -3,7 +3,10 @@ source 'https://rubygems.org'
 # Jekyll version.
 gem "jekyll", "~> 4.2"
 
-# Theme.
+# Theme and dependencies.
+gem "minima", "~> 2.5"
+gem "jekyll-feed"
+gem "jekyll-sitemap"
 gem 'jekyll-theme-minimal'
 
 # Plugins.
