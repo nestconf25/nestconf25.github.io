@@ -1,32 +1,13 @@
-# petridish 🧫
+# Conference website 🧫
 
-Petridish is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.1/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
+Jekyll-based repository for creation of a static website for a conference.
 
-## Installation
+This repo is a fork from [this repo](https://github.com/biomedepi/seizure_detection_challenge), which in turn is based on the [Petridish](https://peterdesmet.github.io/petridish) Jekyll theme.
 
-See the demo website for instructions:
+## Website
 
-- [Installation](https://peterdesmet.github.io/petridish/docs/installation)
-- [Configuration](https://peterdesmet.github.io/petridish/docs/configuration)
-- [Markdown](https://peterdesmet.github.io/petridish/docs/markdown)
+https://nest-ai4nicu.github.io
 
-## Preview
-
-[Demo website](https://peterdesmet.github.io/petridish)
-
-[![screenshot](screenshot.png)](https://peterdesmet.github.io/petridish)
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/peterdesmet/petridish. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## License
-
-[MIT License](LICENSE)
-
----
-
-<!-- All the above is about the Petridish theme, so you might want to remove that. -->
 
 _The instructions below can be adapted/included in the README of your site repository._
 
@@ -54,4 +35,3 @@ The repository structure follows that of Jekyll websites.
 - Images & static files: [assets/](assets/)
 - Top navigation: [_data/navigation.yml](_data/navigation.yml)
 - Footer content: [_data/footer.yml](_data/footer.yml)
-- Team members: [_data/team.yml](_data/team.yml)

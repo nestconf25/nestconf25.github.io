@@ -2,13 +2,11 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: Dataset
+- text: Program
   href: true
-- text: Regulations
-  href: true
-- text: Team
-  href: true
-- text: Workshop
+- text: Practical details
   href: true
 - text: Registration
+  href: true
+- text: Contact
   href: true
