@@ -7,10 +7,10 @@ permalink: /registration/
 The event will feature a conference dinner on **Wednesday, 3 September**.
 The dinner costs **€108**, which is not covered or reimbursed by the organization and will be at your own expense.
 
-Please select your registration option below. You will be redirected to the corresponding registration page.
+Please select your registration option below. You will be redirected to the registration page. You may need to select English in the top right corner, and first create an account.
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="/register-with-dinner" style="
+    <a href="https://icts.kuleuven.be/apps/onebutton/profile/814359" style="
         display: inline-block;
         padding: 10px 20px;
         background-color: #28a745;
@@ -24,7 +24,7 @@ Please select your registration option below. You will be redirected to the corr
 
     <span style="font-size: 18px; vertical-align: middle;">or</span>
 
-    <a href="/register-without-dinner" style="
+    <a href="https://icts.kuleuven.be/apps/onebutton/profile/814359" style="
         display: inline-block;
         padding: 10px 20px;
         background-color: #007BFF;
