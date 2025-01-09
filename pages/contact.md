@@ -2,4 +2,5 @@
 title: Contact
 permalink: /contact/
 ---
-TBA
+## Contact
+For questions, please send an email to [tim.hermans@esat.kuleuven.be](tim.hermans@esat.kuleuven.be)

@@ -2,7 +2,7 @@
 title: Abstract submission
 permalink: /abstract-submission/
 ---
-### Abstracts
+## Abstracts
 The meeting will contain short oral presentations from accepted submissions.
 
 Please consider submitting an abstract, covering one of the following topics:
@@ -18,5 +18,5 @@ Please email your abstract (max 300 words with 1 figure/table in word or as a PD
 
 Deadline for abstract submission is Sunday 27th April 2025.
 
-### Posters
+## Posters
 If not accepted for an oral presentation, participants are encouraged to bring a scientific poster to share their work during the poster sessions.
