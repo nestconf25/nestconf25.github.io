@@ -11,6 +11,7 @@ permalink: /
 
 Coming soon
 
+This website is under construction.
 
 ## **<span style="color:#2B547E">Important Dates</span>**
 
