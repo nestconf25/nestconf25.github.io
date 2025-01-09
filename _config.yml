@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title: NEST meets AI4NICU                        # Title in top navigation bar (navbar) and <head>
+title: NEST25                       # Title in top navigation bar (navbar) and <head>
 description: Conference meeting # Site description in <head>
 author: Tim Hermans                    # Used for copyright statement in footer
 baseurl: "/"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
@@ -45,7 +45,7 @@ defaults:
       path: ""
     values:
       layout: default                   # Use default.html layout by default for all files
-      background: /assets/theme/images/bckg.png
+      background: /assets/theme/images/begijnhof.jpg
   - scope:
       type: posts
     values:
