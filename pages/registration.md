@@ -19,7 +19,7 @@ Please select your registration option below. You will be redirected to the regi
         border-radius: 5px;
         font-size: 16px;
         margin-right: 20px;">
-        Register with Dinner (100€)
+        Register with Dinner (108€)
     </a>
 
     <span style="font-size: 18px; vertical-align: middle;">or</span>
