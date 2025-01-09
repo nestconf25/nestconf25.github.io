@@ -7,7 +7,7 @@ permalink: /registration/
 The event will feature a conference dinner on **Wednesday, 3 September**.
 The dinner costs **€108**, which is not covered or reimbursed by the organization and will be at your own expense.
 
-Please select your registration option below:
+Please select your registration option below. You will be redirected to the corresponding registration page.
 
 <div style="text-align: center; margin: 20px 0;">
     <a href="/register-with-dinner" style="
@@ -37,7 +37,7 @@ Please select your registration option below:
     </a>
 </div>
 
-By registering, you confirm your participation in the conference. If you select the dinner option, you will be redirected to a payment page.
+By registering, you confirm your participation in the conference. 
 
 ## Accomodation 
 Coming soon
