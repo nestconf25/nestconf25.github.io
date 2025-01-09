@@ -4,10 +4,21 @@ permalink: /registration/
 ---
 
 ## Conference registration
+Registration opening soon.
+
+<!-- ---
+
+If you will submit an abstract, wait with registering as particiants with accepted abstract will receive a link to register for free.
+
+---
+
 The event will feature a conference dinner on **Wednesday, 3 September**.
 The dinner costs **€108**, which is not covered or reimbursed by the organization and will be at your own expense.
 
-Please select your registration option below. You will be redirected to the registration page. You may need to select English in the top right corner, and first create an account.
+Please select your registration option below. You will be redirected to the registration page. 
+
+You may need to select English in the top right corner and create an account first. 
+Make sure to click the **Sign me in** button after completing the form.
 
 <div style="text-align: center; margin: 20px 0;">
     <a href="https://icts.kuleuven.be/apps/onebutton/profile/814359" style="
@@ -37,9 +48,7 @@ Please select your registration option below. You will be redirected to the regi
     </a>
 </div>
 
-By registering, you confirm your participation in the conference. 
+By registering, you confirm your participation in the conference.  -->
 
 ## Accomodation 
 Coming soon
-
-
