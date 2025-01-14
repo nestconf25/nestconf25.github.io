@@ -4,7 +4,7 @@ permalink: /registration/
 ---
 
 ## Conference registration
-Registration opening soon.
+Registration opening soon...
 
 <!-- ---
 
