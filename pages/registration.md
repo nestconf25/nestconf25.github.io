@@ -5,12 +5,14 @@ permalink: /registration/
 
 ## Conference registration
 
-Conference registration fees:
-• Attendee with talk/poster: free
-• Attendee without talk/poster: €192
+**Conference** registration fees:
+* Attendee with talk/poster: free
+* Attendee without talk/poster: €192
 
-Conference dinner registration (optional)
-• All attendees: €108
+**Dinner** registration (optional)
+* All attendees: €108
+
+---
 
 If you will submit an abstract, wait with registering as particiants with accepted abstract will receive a link to register for free.
 
