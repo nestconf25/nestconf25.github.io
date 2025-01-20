@@ -4,19 +4,26 @@ permalink: /registration/
 ---
 
 ## Conference registration
-Registration opening soon...
 
-<!-- ---
+Conference registration fees:
+• Attendee with talk/poster: free
+• Attendee without talk/poster: €192
+
+Conference dinner registration (optional)
+• All attendees: €108
 
 If you will submit an abstract, wait with registering as particiants with accepted abstract will receive a link to register for free.
-
----
 
 The event will feature a conference dinner on **Wednesday, 3 September**.
 The dinner costs **€108**, which is not covered or reimbursed by the organization and will be at your own expense.
 
 Please select your registration option below. You will be redirected to the registration page. 
 
+Registration link coming soon
+
+---
+
+<!---
 You may need to select English in the top right corner and create an account first. 
 Make sure to click the **Sign me in** button after completing the form.
 
@@ -48,7 +55,9 @@ Make sure to click the **Sign me in** button after completing the form.
     </a>
 </div>
 
-By registering, you confirm your participation in the conference.  -->
+By registering, you confirm your participation in the conference.
 
 ## Accomodation 
 Coming soon
+
+-->
