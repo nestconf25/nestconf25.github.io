@@ -4,6 +4,9 @@ permalink: /practical-details/
 ---
 
 ## Venue
-The conference will take place at:  
-**[Groot Begijnhof, Leuven, Belgium](https://maps.app.goo.gl/ajwLvHic5te59d6G9)**  
-Click the link above to view the location on Google Maps.
+The conference will be held at:  
+**Groot Begijnhof, Leuven, Belgium** ([view on map](https://maps.app.goo.gl/ajwLvHic5te59d6G9))  
+Further details will be provided soon.
+
+## Accomodation
+Suggestions coming soon...
