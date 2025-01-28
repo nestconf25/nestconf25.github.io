@@ -3,7 +3,7 @@ title: Abstract submission
 permalink: /abstract-submission/
 ---
 ## Abstracts
-The meeting will contain short oral presentations from accepted submissions.
+The meeting will contain short oral presentations from accepted submissions, as well as a poster session.
 
 Please consider submitting an abstract, covering one of the following topics:
 * How sleep develops in utero and early infancy and its relationship to brain development.
@@ -17,6 +17,3 @@ Please email your abstract (max 300 words with 1 figure/table in word or as a PD
 [J.Dudink@umcutrecht.nl](mailto:J.Dudink@umcutrecht.nl)
 
 Deadline for abstract submission is Sunday 27th April 2025.
-
-## Posters
-If not accepted for an oral presentation, participants are encouraged to bring a scientific poster to share their work during the poster sessions.
