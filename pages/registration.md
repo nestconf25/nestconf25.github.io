@@ -42,35 +42,39 @@ If you submit an abstract, applicants will receive an email to finaize their reg
     </a>
 </div> -->
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-evenly;">
   <div style="margin-right: 20px; width: 300px; 
   display: flex; flex-direction: column; 
   text-align: center; align-items: center; justify-content: center">
     <a href="https://nestconf25.github.io/register-with-abstract" class="button" style="display: flex; justify-content: center; align-items: center; 
-    width: 150px; 
+    width: 170px; 
     height: 50px;
     padding: 10px 20px; 
     background-color: #28a745; 
     color: white; 
-    border-radius: 5px; font-weight: bold;
+    border-radius: 5px; 
+    font-weight: bold;
+    font-family: sans-serif;
     text-decoration: none; ">
     Submit abstract
     </a>
-    <p><em>Additional text for Button 1</em></p>
+    <p><em>You will be redirected to the abstract submission page. Please follow the steps on that page to submit the abstract. You will receive an email to finalize your registration and payment once the abstracts have been evaluated (by the end of May). Please note that the registration fee depends on the acceptance of your abstract.</em></p>
   </div>
   <div style="margin-right: 20px; width: 300px; 
   display: flex; flex-direction: column; 
   text-align: center; align-items: center; justify-content: center">
     <a href="https://nestconf25.github.io/register-without-abstract" class="button" style="display: flex; justify-content: center; align-items: center; 
-    width: 150px; 
+    width: 170px; 
     height: 50px;
     padding: 10px 20px; 
     background-color: #28a745; 
-    border-radius: 5px; font-weight: bold;
+    border-radius: 5px; 
+    font-weight: bold;
+    font-family: sans-serif;
     color: white; text-decoration: none; ">
     Register without abstract
     </a>
-    <p><em>You may need to select English in the top right corner and create an account first. Make sure to click the **Sign me in** button after completing the form.</em></p>
+    <p><em>You will be redirected to a registration page of KU Leuven.</em></p>
   </div>
 </div>
 
