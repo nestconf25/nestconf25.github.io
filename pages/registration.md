@@ -3,48 +3,20 @@ title: Registration
 permalink: /registration/
 ---
 
-## Conference registration
+## Registration fees
 The event will include a conference dinner on **Wednesday, 3 September**.
+* For attendees with an accepted talk or poster, conference participation is **free**. The dinner is optional and available for an additional cost of **€108**.
 * The registration fee for attendees without a talk or poster is **€300**, which includes the dinner.
-* For attendees with an accepted talk or poster, conference participation is **free**. The dinner is optional and not reimbursed by our organization; if you choose to attend the dinner, the cost is **€108**.
 
-Please select your registration option below.
-You can either submit an abstract, or choose to register without an abstract.
-If you submit an abstract, you will receive an email to finalize your registration and payment once the abstracts have been evaluated (by the end of May). Please note that the registration fee depends on the acceptance of your abstract.
-
-<!-- <div style="text-align: center; margin: 20px 0;">
-    <a href="https://icts.kuleuven.be/apps/onebutton/profile/814359" style="
-        display: inline-block;
-        padding: 10px 20px;
-        background-color: #28a745;
-        color: white;
-        text-decoration: none;
-        border-radius: 5px;
-        font-size: 16px;
-        margin-right: 20px;">
-        Submit abstract
-    </a>
-
-    <span style="font-size: 18px; vertical-align: middle;">or</span>
-
-    <a href="https://icts.kuleuven.be/apps/onebutton/profile/814359" style="
-        display: inline-block;
-        padding: 10px 20px;
-        background-color: #007BFF;
-        color: white;
-        text-decoration: none;
-        border-radius: 5px;
-        font-size: 16px;
-        margin-left: 20px;">
-        Register without abstract (€300)
-    </a>
-</div> -->
+## Registration options
+You can choose to register with or without submitting an abstract.
+If you submit an abstract, you will receive an email by the end of May to finalize your registration and payment, as the registration fee depends on whether your abstract is accepted. If you do not wish to submit an abstract, you can register immediately by clicking the button on the right below.
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-evenly;">
   <div style="margin-right: 20px; width: 300px; 
   display: flex; flex-direction: column; 
   text-align: center; align-items: center; justify-content: center">
-    <a href="https://nestconf25.github.io/register-with-abstract" class="button" style="display: flex; justify-content: center; align-items: center; 
+    <a href="https://nestconf25.github.io/abstract-submission" class="button" style="display: flex; justify-content: center; align-items: center; 
     width: 170px; 
     height: 60px;
     padding: 10px 20px; 
@@ -56,7 +28,8 @@ If you submit an abstract, you will receive an email to finalize your registrati
     text-decoration: none; ">
     Submit abstract
     </a>
-    <p><em>You will be redirected to the abstract submission page. Please follow the steps on that page. </em></p>
+    <p><em>You will be redirected to the abstract submission page. Please follow the instructions provided there.
+ </em></p>
   </div>
   <div style="margin-right: 20px; width: 300px; 
   display: flex; flex-direction: column; 
