@@ -49,6 +49,3 @@ If you submit an abstract, you will receive an email by the end of May to finali
   </div>
 </div>
 
-
-## Accomodation 
-Coming soon

@@ -9,4 +9,4 @@ The conference will be held at:
 Further details will be provided soon.
 
 ## Accomodation
-Suggestions coming soon...
+Suggestions coming soon.

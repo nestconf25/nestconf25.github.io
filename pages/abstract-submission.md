@@ -3,7 +3,7 @@ title: Abstract submission
 permalink: /abstract-submission/
 ---
 ## Abstracts
-The meeting will contain short oral presentations from accepted submissions, as well as a poster session.
+The meeting will feature short oral presentations from accepted submissions, as well as a poster session.
 
 Please consider submitting an abstract, covering one of the following topics:
 * How sleep develops in utero and early infancy and its relationship to brain development.
@@ -13,30 +13,12 @@ Please consider submitting an abstract, covering one of the following topics:
 * Technological developments in the assessment of sleep in the newborn.
 * Challenges of conducting research into infant sleep.
 
-Please email your abstract (max 300 words with 1 figure/table in word or as a PDF) to 
-[J.Dudink@umcutrecht.nl](mailto:J.Dudink@umcutrecht.nl)
+## Submission
+Please email your abstract (max 300 words, including 1 figure/table) in Word or PDF format to <a href="mailto:J.Dudink@umcutrecht.nl">J.Dudink@umcutrecht.nl</a> and CC to <a href="mailto:tim.hermans@esat.kuleuven.be">tim.hermans@esat.kuleuven.be</a>.
 
-Once the abstracts have been evaluated (by the end of May), you will receive an email to finalize your registration and payment. Please note that the registration fee depends on the acceptance of your abstract (see the [registration page](https://nestconf25.github.io/registration/)).
+## After submission
+Abstracts will be evaluated by the end of May and may be accepted for either a short oral presentation or as a poster.
 
+Once the evaluation is complete, you will receive an email to **finalize your registration** and payment. Please note that the registration fee is dependent on the acceptance of your abstract. For more details, please refer to the [registration page](https://nestconf25.github.io/registration/).
 
-<!-- <div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-evenly;">
-  <div style="margin-right: 20px; width: 300px; 
-  display: flex; flex-direction: column; 
-  text-align: center; align-items: center; justify-content: center">
-    <a href="https://nestconf25.github.io/register-with-abstract" class="button" style="display: flex; justify-content: center; align-items: center; 
-    width: 170px; 
-    height: 60px;
-    padding: 10px 20px; 
-    background-color: #28a745; 
-    color: white; 
-    border-radius: 5px; 
-    font-weight: bold;
-    font-family: sans-serif;
-    text-decoration: none; ">
-    Submit abstract
-    </a>
-    <p><em>You will be redirected to the abstract submission page. Please follow the steps on that page. </em></p>
-  </div>
-  </div> -->
-
-Deadline for abstract submission is Sunday 27th April 2025.
+Deadline for abstract submission is **Sunday 27th April 2025**.
