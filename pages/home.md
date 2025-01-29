@@ -14,12 +14,12 @@ Recognizing the critical role of continuous brain monitoring in neonatal care, t
 This meeting aims to encourage cross-disciplinary collaboration between clinicians, neuroscientists, engineers, and industry partners to improve neonatal care through research, technology, and innovation.
 
 Topics include:
-* Neonatal Sleep and Development:
+* **Neonatal sleep and development:**
     * How sleep develops in utero and early infancy.
     * The importance of protecting sleep in the neonatal intensive care unit.
     * Issues affecting sleep in early infancy.
     * The development of circadian rhythms.
-* Technological Advances in Sleep and Brain Monitoring:
+* **Technological advances in sleep and brain monitoring:**
     * Innovations in neonatal sleep assessment and analysis.
     * Challenges in sleep research and clinical translation.
     * AI-enabled monitoring tools for neonatal brain health.

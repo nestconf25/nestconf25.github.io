@@ -6,12 +6,13 @@ permalink: /abstract-submission/
 The meeting will feature short oral presentations from accepted submissions, as well as a poster session.
 
 Please consider submitting an abstract, covering one of the following topics:
-* How sleep develops in utero and early infancy and its relationship to brain development.
+* How sleep develops in utero and early infancy.
 * The importance of protecting sleep in the neonatal intensive care unit.
 * Issues affecting sleep in early infancy.
 * The development of circadian rhythms.
-* Technological developments in the assessment of sleep in the newborn.
-* Challenges of conducting research into infant sleep.
+* Innovations in neonatal sleep assessment and analysis.
+* Challenges in sleep research and clinical translation.
+* AI-enabled monitoring tools for neonatal brain health.
 
 ## Submission
 Please email your abstract (max 300 words, including 1 figure/table) in Word or PDF format to <a href="mailto:J.Dudink@umcutrecht.nl">J.Dudink@umcutrecht.nl</a> and CC to <a href="mailto:tim.hermans@esat.kuleuven.be">tim.hermans@esat.kuleuven.be</a>.
