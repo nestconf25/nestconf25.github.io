@@ -7,21 +7,25 @@ permalink: /
 
 ## **NEonatal Sleep Talks**
 
-This is the 5th symposium on neonatal and early infant sleep. NEonatal Sleep Talks brings together scientists and healthcare professionals to share and exchange ideas on all aspects of sleep and the developing brain. The aim of the meeting is to provide a comprehensive overview of sleep in the newborn and early infancy, from the basic science of sleep and the developing brain, to new technologies to assess sleep in the neonatal intensive care unit and the home, as well as investigating the impact of sleep on health and wellbeing, particularly in high-risk infants. 
+This is the 5th symposium on neonatal and early infant sleep. NEonatal Sleep Talks brings together scientists and healthcare professionals to share and exchange ideas on all aspects of sleep and the developing brain. The aim of the meeting is to provide a overview of sleep in the newborn and early infancy, from the basic science of sleep and the developing brain, to new technologies to assess sleep in the neonatal intensive care unit and the home, as well as investigating the impact of sleep on health and wellbeing, particularly in high-risk infants. 
 
-The meeting will encourage cross-disciplinary interaction (clinical and technological) to promote discussion and future collaborations.
+Recognizing the critical role of continuous brain monitoring in neonatal care, this year’s symposium will also include dedicated sessions on AI-driven neonatal monitoring and brain health assessment. These sessions will explore how machine-learning algorithms, EEG-based biomarkers, and data-driven approaches can support decision-making in the Neonatal Intensive Care Unit (NICU).
+
+This meeting aims to encourage cross-disciplinary collaboration between clinicians, neuroscientists, engineers, and industry partners to improve neonatal care through research, technology, and innovation.
+
 Topics include:
-* Clinical:
-    * How sleep develops in utero and early infancy and its relationship to brain development.
+* Neonatal Sleep and Development:
+    * How sleep develops in utero and early infancy.
     * The importance of protecting sleep in the neonatal intensive care unit.
     * Issues affecting sleep in early infancy.
     * The development of circadian rhythms.
-* Technological:
-    * Technological developments in the assessment of sleep in the newborn.
-    * Challenges of conducting research into infant sleep.
+* Technological Advances in Sleep and Brain Monitoring:
+    * Innovations in neonatal sleep assessment and analysis.
+    * Challenges in sleep research and clinical translation.
+    * AI-enabled monitoring tools for neonatal brain health.
 
-**Who is it for?**  
-Scientists (basic and applied) and healthcare professionals interested in neonatal and infant sleep.
+**Who should attend?**  
+Scientists (basic and applied), clinicians, and healthcare professionals with an interest in neonatal sleep, neurophysiology, and AI-driven neonatal monitoring.
 
 **Structure of the meeting**  
 The meeting will consist of keynote speakers and short submitted presentations from researchers as well as poster sessions.
