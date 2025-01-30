@@ -7,7 +7,7 @@ permalink: /
 
 ## **NEonatal Sleep Talks**
 
-This is the 5th symposium on neonatal and early infant sleep. NEonatal Sleep Talks brings together scientists and healthcare professionals to share and exchange ideas on all aspects of sleep and the developing brain. The aim of the meeting is to provide a overview of sleep in the newborn and early infancy, from the basic science of sleep and the developing brain, to new technologies to assess sleep in the neonatal intensive care unit and the home, as well as investigating the impact of sleep on health and wellbeing, particularly in high-risk infants. 
+This is the 5th symposium on neonatal and early infant sleep. NEonatal Sleep Talks brings together scientists and healthcare professionals to share and exchange ideas on all aspects of sleep and the developing brain. The aim of the meeting is to provide a overview of sleep in the newborn and early infancy, from the basic science of sleep and the developing brain, to new technologies to assess sleep, as well as investigating the impact of sleep on health and wellbeing, particularly in high-risk infants. 
 
 Recognizing the critical role of continuous brain monitoring in neonatal care, this year’s symposium will also include dedicated sessions on AI-driven neonatal monitoring and brain health assessment. These sessions will explore how machine-learning algorithms, EEG-based biomarkers, and data-driven approaches can support decision-making in the Neonatal Intensive Care Unit (NICU).
 
