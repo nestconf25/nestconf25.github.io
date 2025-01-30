@@ -30,11 +30,11 @@ Scientists (basic and applied), clinicians, and healthcare professionals with an
 **Structure of the meeting**  
 The meeting will consist of keynote speakers and short submitted presentations from researchers as well as poster sessions.
 
-## **<span style="color:#2B547E">Important Dates</span>**
-
+## **Important Dates**
 - **Conference:** 3-4 September 2025
 - **Abstract submission deadline:** 27 April 2025
 - **Registration deadline:** 1 June 2025
+
 
 \
 \
