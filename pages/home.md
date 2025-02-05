@@ -31,9 +31,12 @@ Scientists (basic and applied), clinicians, and healthcare professionals with an
 The meeting will consist of keynote speakers and short submitted presentations from researchers as well as poster sessions. 
 
 ## **Important Dates**
-- **Conference:** 3-4 September 2025 | [Program details](https://nestconf25.github.io/program/)
-- **Abstract submission deadline:** 27 April 2025 | [Submission details](https://nestconf25.github.io/abstract-submission/)
-- **Registration deadline:** 1 June 2025 | [Registration details](https://nestconf25.github.io/registration/)
+- **Conference:** 3-4 September 2025  
+    [Program details](https://nestconf25.github.io/program/)
+- **Abstract submission deadline:** 27 April 2025   
+    [Submission details](https://nestconf25.github.io/abstract-submission/)
+- **Registration deadline:** 1 June 2025  
+    [Registration details](https://nestconf25.github.io/registration/)
 
 
 \
