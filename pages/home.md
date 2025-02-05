@@ -25,15 +25,15 @@ Topics include:
     * AI-enabled monitoring tools for neonatal brain health.
 
 **Who should attend?**  
-Scientists (basic and applied), clinicians, and healthcare professionals with an interest in neonatal sleep, neurophysiology, and AI-driven neonatal monitoring.
+Scientists (basic and applied), clinicians, and healthcare professionals with an interest in neonatal sleep, neurophysiology, and AI-driven neonatal monitoring. 
 
 **Structure of the meeting**  
-The meeting will consist of keynote speakers and short submitted presentations from researchers as well as poster sessions.
+The meeting will consist of keynote speakers and short submitted presentations from researchers as well as poster sessions. 
 
 ## **Important Dates**
-- **Conference:** 3-4 September 2025
-- **Abstract submission deadline:** 27 April 2025
-- **Registration deadline:** 1 June 2025
+- **Conference:** 3-4 September 2025 | [Program details](https://nestconf25.github.io/program/)
+- **Abstract submission deadline:** 27 April 2025 | [Submission details](https://nestconf25.github.io/abstract-submission/)
+- **Registration deadline:** 1 June 2025 | [Registration details](https://nestconf25.github.io/registration/)
 
 
 \
