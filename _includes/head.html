@@ -3,7 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   {% if page.layout == 'home' %}
-    <title>{{ site.title }}</title>
+    <title>{{ page.title }} - {{ site.title }}</title>
   {% else %}
     <title>{{ page.title }} - {{ site.title }}</title>
   {% endif %}
@@ -18,12 +18,17 @@
   {% if site.github_username %}
     {% assign site.social.github = site.github_username %}
   {% endif %}
-
   {% if page.description %}
     {% assign description = page.description | markdownify | strip_html | newline_to_br | split: '<br />' | first %}
   {% endif %}
+  {% if page.keywords %}
+    {% assign keywords = page.keywords | markdownify | strip_html | newline_to_br | split: '<br />' | first %}
+  {% endif %}
   {% if description %}
     <meta name="description" content="{{ description }}">
+  {% endif %}
+  {% if keywords %}
+    <meta name="keywords" content="{{ keywords }}">
   {% endif %}
   {% if page.author %}
     {% assign author = page.author | join: ", " %}
