@@ -1,6 +1,6 @@
 # SITE SETTINGS
 title: NEST 2025                       # Title in top navigation bar (navbar) and <head>
-description: Conference meeting # Site description in <head>
+description: "Neonatal Sleep Talks 2025 – 5th Symposium on Infant Sleep" # Site description in <head>
 author: Tim Hermans                    # Used for copyright statement in footer
 baseurl: "/"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
