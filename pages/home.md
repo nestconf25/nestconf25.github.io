@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "NEonatal Sleep Talks 2025"
+title: "NEonatal Sleep Talks NEST 2025"
 description: "Join the 5th NEonatal Sleep Talks (NEST) Symposium in Leuven (Sept 3-4, 2025) to explore neonatal sleep, brain monitoring, and AI-driven innovations in neonatal care"
 keywords: "neonatal sleep, infant sleep conference, neonatal intensive care, NICU monitoring, AI in neonatal care, newborn brain development, EEG monitoring, neonatal neurophysiology"
 author: "Neonatal Sleep Talks"
