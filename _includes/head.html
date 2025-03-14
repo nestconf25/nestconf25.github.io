@@ -57,7 +57,18 @@
     <meta property="og:image" content="{{ background | absolute_url }}">
   {% endif %}
 
-  <link rel="icon" type="image/x-icon" href="{{ '/assets/theme/images/biomed_logo.png' | absolute_url }}">
+  <link rel="icon" type="image/x-icon" href="{{ '/assets/theme/images/favicon.ico' | absolute_url }}">
+  
+  <!-- Structured Data for Logo -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "url": "https://nestconf25.github.io",
+    "logo": "https://nestconf25.github.io/assets/theme/images/favicon.ico"
+  }
+  </script>
+  
   <!-- Bootstrap CSS is included in main.css -->
   <link rel="stylesheet" href="{{ '/assets/theme/css/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/theme/css/fontawesome-all.min.css' | relative_url }}">
