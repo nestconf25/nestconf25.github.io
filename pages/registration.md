@@ -45,7 +45,7 @@ If you submit an abstract, you will receive an email by the end of May to finali
     color: white; text-decoration: none; ">
     Register without abstract
     </a>
-    <p><em>You will be redirected to the conference registration page (powered by KU Leuven).</em></p>
+    <p><em>You will be redirected to the registration page.</em></p>
   </div>
 </div>
 
