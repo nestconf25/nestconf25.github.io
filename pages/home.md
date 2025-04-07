@@ -41,7 +41,4 @@ The meeting will consist of keynote speakers and short submitted presentations f
     [Registration details](https://nestconf25.github.io/registration/)
 
 
-\
-\
-\
 ![Partners]({{ '/assets/theme/images/partners.png' | relative_url }})
