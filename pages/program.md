@@ -38,7 +38,7 @@ permalink: /program/
 
 - **09:00 - 10:00**: Keynote presentation  
   >***Speaker**: Prof. Caroline Hartley (Associate Professor Paediatric Neuroimaging, University of Oxford)*  
-  ***Topic**: Apnoeas during neonatal sleep*
+  ***Topic**: Apnoea and infant brain development*
 - **10:00 - 11:00**: Session 1 – Neonatal monitoring  
 - **11:00 - 11:30**: Coffee Break  
 - **11:30 - 12:30**: Session 2 – New technologies for neonatal monitoring  
