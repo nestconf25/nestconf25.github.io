@@ -24,8 +24,8 @@ permalink: /program/
 - **14:00 - 14:30**: Keynote presentation  
   >***Speaker**: Prof. Katrien Jansen (Paediatric Neurologist, University Hospitals Leuven)*    
   ***Topic**: Infant sleep in the NICU*  
-- **14:30 - 15:30**: Abstract presentations
-- **15:30 - 16:00**: Coffee Break  
+- **14:30 - 16:00**: Workshop  
+  >***Topic**: Towards a NICU sleep bundle: Interactive workshop & white paper co-creation*  
 - **16:00 - 17:30**: Poster session 
 
 ##### Evening
