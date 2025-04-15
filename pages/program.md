@@ -25,7 +25,8 @@ permalink: /program/
   >***Speaker**: Prof. Katrien Jansen (Paediatric Neurologist, University Hospitals Leuven)*    
   ***Topic**: Infant sleep in the NICU*  
 - **14:30 - 16:00**: Workshop  
-  >***Topic**: Towards a NICU sleep bundle: Interactive workshop & white paper co-creation*  
+  >***Moderator**: Prof. Jeroen Dudink (Neonatologist, Wilhelmina Children’s Hospital, Utrecht)*    
+  ***Topic**: Towards a NICU sleep bundle: Interactive workshop & white paper co-creation*  
 - **16:00 - 17:30**: Poster session 
 
 ##### Evening
