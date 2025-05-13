@@ -37,6 +37,6 @@ This meeting aims to encourage cross-disciplinary collaboration between clinicia
 Scientists (basic and applied), clinicians, and healthcare professionals with an interest in neonatal sleep, neurophysiology, and AI-driven neonatal monitoring. 
 
 **Structure of the meeting**  
-The meeting will consist of keynote speakers and short submitted presentations from researchers as well as poster sessions. 
+The meeting will consist of keynote speakers, invited talks and short submitted presentations from researchers as well as a poster session ([program details](https://nestconf25.github.io/program/)).
 
 ![Partners]({{ '/assets/theme/images/partners.png' | relative_url }})
