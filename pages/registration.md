@@ -9,10 +9,9 @@ The event will include a conference dinner on **Wednesday, 3 September** at the 
 * The registration fee for attendees without a talk or poster is **€300**, which includes the dinner.
 
 ## Registration options
-You can choose to register with or without submitting an abstract.
-If you submit an abstract, you will receive an email by the end of May to finalize your registration and payment, as the registration fee depends on whether your abstract is accepted. If you do not wish to submit an abstract, you can register immediately by clicking the button on the right below.
+If you have submitted an abstract, you will receive an email by the end of May to finalize your registration and payment, as the registration fee depends on whether your abstract is accepted. If you have not submitted an abstract, you can register for the conference below.
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-evenly;">
+<!-- <div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-evenly;">
   <div style="margin-right: 20px; width: 300px; 
   display: flex; flex-direction: column; 
   text-align: center; align-items: center; justify-content: center">
@@ -47,5 +46,13 @@ If you submit an abstract, you will receive an email by the end of May to finali
     </a>
     <p><em>You will be redirected to the registration page.</em></p>
   </div>
+</div> -->
+
+## Registration form
+Please fill in the form below to register.  
+If you have issues accessing the form on this page, click [here](https://docs.google.com/forms/d/e/1FAIpQLSd27dEVfxYbWBEWXbI-IGpFvrgvDiMcKHK-nsSGTavDmNTgpQ/viewform?usp=pp_url&entry.1753222212=Day+1+(3+Sept)&entry.1753222212=Day+2+(4+Sept)) to open the form in a new window.
+
+<div>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd27dEVfxYbWBEWXbI-IGpFvrgvDiMcKHK-nsSGTavDmNTgpQ/viewform?embedded=true_url&entry.1753222212=Day+1+(3+Sept)&entry.1753222212=Day+2+(4+Sept)" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 </div>
 

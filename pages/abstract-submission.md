@@ -3,7 +3,7 @@ title: Abstract submission
 permalink: /abstract-submission/
 ---
 ## Submission
-Abstract submission has closed. You can still register for the conference without an abstract [here](https://nestconf25.github.io/register-without-abstract/).
+Abstract submission has closed. You can still register for the conference without an abstract [here](https://nestconf25.github.io/registration/).
 
 <!-- ## Abstracts
 The meeting will feature short oral presentations from accepted submissions, as well as a poster session.
