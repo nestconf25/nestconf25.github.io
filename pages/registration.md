@@ -4,7 +4,7 @@ permalink: /registration/
 ---
 
 ## Registration fees
-The event will include a conference dinner on **Wednesday, 3 September**.
+The event will include a conference dinner on **Wednesday, 3 September** at the Faculty Club in Leuven, located near the conference venue.
 * For attendees with an accepted talk or poster, conference participation is **free**. The dinner is optional and available for an additional cost of **€108**.
 * The registration fee for attendees without a talk or poster is **€300**, which includes the dinner.
 

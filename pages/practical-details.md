@@ -25,3 +25,6 @@ The veneu is located in Southern part of the city center. Please find some sugge
 **€€€**  
 [Begijnhof Hotel Leuven](https://bchotel.be/en/home-2/) (3 mins)  
 [Kloosterhotel](https://www.martinshotels.com/en/page/martins-klooster/martins-klooster-4-hotel-louvain-official-website.11057.html) (15 mins)  
+
+## Conference dinner
+The event will include a conference dinner on Wednesday, 3 September at the Faculty Club in Leuven, located near the conference venue ([view on map](https://maps.app.goo.gl/gJyZwQVSbbmLNznk9)). 

@@ -7,6 +7,13 @@ author: "Neonatal Sleep Talks"
 permalink: /
 ---
 
+## **Important Dates**
+- **Conference:** 3-4 September 2025  
+    [Program details](https://nestconf25.github.io/program/)
+- **Registration deadline:** 6 July 2025  
+    [Registration details](https://nestconf25.github.io/registration/)
+- Abstract submission has closed
+
 ## **5th Neonatal Sleep Talks Symposium – Advancing Sleep Research & AI in Neonatal Care**
 
 NEonatal Sleep Talks brings together scientists and healthcare professionals to share and exchange ideas on all aspects of sleep and the developing brain. The aim of the meeting is to provide an overview of **sleep in the newborn and early infancy**, from the basic science of sleep and the developing brain, to investigating the impact of sleep on health and wellbeing, particularly in high-risk infants. 
@@ -31,14 +38,5 @@ Scientists (basic and applied), clinicians, and healthcare professionals with an
 
 **Structure of the meeting**  
 The meeting will consist of keynote speakers and short submitted presentations from researchers as well as poster sessions. 
-
-## **Important Dates**
-- **Conference:** 3-4 September 2025  
-    [Program details](https://nestconf25.github.io/program/)
-- **Abstract submission deadline:** 27 April 2025   
-    [Submission details](https://nestconf25.github.io/abstract-submission/)
-- **Registration deadline:** 1 June 2025  
-    [Registration details](https://nestconf25.github.io/registration/)
-
 
 ![Partners]({{ '/assets/theme/images/partners.png' | relative_url }})
