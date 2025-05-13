@@ -26,7 +26,7 @@ permalink: /program/
 - **14:00 - 15:00**: Soothing and sleeping | abstract presentations
   >- *Margreet Harskamp: Similarities and Differences Between Fathers and Mothers in Needs, Experiences, and Application of Soothing & Sleeping*  
   >- *Rachel Howard: Kangaroo Care and Its Effect on Sleep in Preterm Infants: A Scoping Review*
-  >- *TBD: TBD (kangaroo care Jeroen)*
+  >- *TBD: Monitoring the Effects of Kangaroo Care*
 <!-- Add empty line to prevent overflow of previous line -->
 <ul>
   <li style="list-style: none;"></li>  
