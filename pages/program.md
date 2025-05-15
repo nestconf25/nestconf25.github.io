@@ -55,7 +55,7 @@ permalink: /program/
 
 #### Day 2: Thursday, 4 September 2025
 
-- **09:00 - 10:00**: Apnoea and infant brain developmen | keynote 
+- **09:00 - 10:00**: Apnoea and infant brain development | keynote 
   >***Speaker**: Caroline Hartley (Associate Professor Paediatric Neuroimaging, University of Oxford)*  
 - **10:00 - 10:30**: Federated learning for neonatal brain monitoring | talk
   >***Speaker**: Sampsa Vanhatalo (Professor in Physiology, University of Helsinki)*    
