@@ -35,7 +35,6 @@ permalink: /program/
   >- *Ömer Gürkan Dilek: AI Technologies in Neonatal Brain Health Monitoring*
   >- *Margreet Harskamp: Usage of Snoo smart cribs by families on medical advice by Youth Health Care*
   >- *Jovana Kljajic: Forecasting Individual Seizure Risk in Neonatal Hypoxic-ischemic Encephalopathy Using Machine Learning*
-  >- *Christopher Laine: Longitudinal Sleep and Soothing Metrics in a Large Sample of SNOO Smart-Bassinet Users*
   >- *John O'Toole: AI detection of neonatal EEG abnormalities*
   >- *Magdalena Smolková: Opinions of healthcare professionals on the integration of machine learning enabled devices in neonatology*
 <!-- Add empty line to prevent overflow of previous line -->
