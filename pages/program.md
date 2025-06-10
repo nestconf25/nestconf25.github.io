@@ -14,16 +14,17 @@ permalink: /program/
 - **10:30 - 11:00**: Neonatal sleep in various patient cohorts | talk
   >***Speaker**: Anneleen Dereymaeker (Neonatologist, University Hospitals Leuven)* 
 - **11:00 - 11:20**: Coffee Break  
-- **11:30 - 12:30**: Infant sleep in the NICU | abstract presentations
+- **11:30 - 12:50**: Infant sleep in the NICU | abstract presentations
 >- *Leonie Paciello: Sleep in children born preterm – A report from Tuebingen’s follow up-cohort study*
 >- *Aoife Walsh: A Pilot Study: Using Electroencephalography (EEG) to Assess the Impact of Encephalopathy on Sleep Architecture in Newborn Infants*
 >- *Alisha Blum: Influence of the environment (intensive care unit versus intermediate/normal care unit) on the sleep of preterm infants*
+>- *Viviana Marchi: Sleep Spindle Features and Motor Outcomes in Infants with Perinatal Brain Injury: A Retrospective Study*
 
 ##### Afternoon
-- **12:30 - 13:30**: Lunch  
-- **13:30 - 14:00**: TBD | talk
+- **12:50 - 14:00**: Lunch  
+- **14:00 - 14:30**: TBD | talk
   >***Speaker**: Renée Shellhaas (Pediatric Neurologist, Washington University School of Medicine)*    
-- **14:00 - 15:00**: Soothing and sleeping | abstract presentations
+- **14:30 - 15:30**: Soothing and sleeping | abstract presentations
   >- *Margreet Harskamp: Similarities and Differences Between Fathers and Mothers in Needs, Experiences, and Application of Soothing & Sleeping*  
   >- *Rachel Howard: Kangaroo Care and Its Effect on Sleep in Preterm Infants: A Scoping Review*
   >- *TBD: Monitoring the Effects of Kangaroo Care*
@@ -31,7 +32,7 @@ permalink: /program/
 <ul>
   <li style="list-style: none;"></li>  
 </ul>
-- **15:00 - 16:00**: Poster session with coffee
+- **15:30 - 16:30**: Poster session with coffee
   >- *Ömer Gürkan Dilek: AI Technologies in Neonatal Brain Health Monitoring*
   >- *Margreet Harskamp: Usage of Snoo smart cribs by families on medical advice by Youth Health Care*
   >- *Jovana Kljajic: Forecasting Individual Seizure Risk in Neonatal Hypoxic-ischemic Encephalopathy Using Machine Learning*
@@ -41,7 +42,7 @@ permalink: /program/
 <ul>
   <li style="list-style: none;"></li>  
 </ul>
-- **16:00 - 17:30**: Towards a NICU sleep bundle | Interactive workshop & white paper co-creation
+- **16:30 - 18:00**: Towards a NICU sleep bundle | Interactive workshop & white paper co-creation
   >- *Juliane Köberlein-Neu (Professor of Health Services Research and Health Economic Evaluation, University of Wuppertal)*  
   >- *Christy Gliniak (Neonatal Occupational Therapist, MultiCare Deaconess Hospital, Washington)*  
   >- *Jeroen Dudink (Neonatologist, Wilhelmina Children’s Hospital, Utrecht)*  
