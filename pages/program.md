@@ -37,6 +37,7 @@ permalink: /program/
   >- *Margreet Harskamp: Usage of Snoo smart cribs by families on medical advice by Youth Health Care*
   >- *Jovana Kljajic: Forecasting Individual Seizure Risk in Neonatal Hypoxic-ischemic Encephalopathy Using Machine Learning*
   >- *John O'Toole: AI detection of neonatal EEG abnormalities*
+  >- *Sofie de Sena: Infant Sleep Position as a Predictor of Motor Development: A Smart Wearable Approach*
   >- *Magdalena Smolková: Opinions of healthcare professionals on the integration of machine learning enabled devices in neonatology*
 <!-- Add empty line to prevent overflow of previous line -->
 <ul>
