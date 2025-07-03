@@ -62,7 +62,7 @@ permalink: /program/
   >***Speaker**: Sampsa Vanhatalo (Professor in Physiology, University of Helsinki)*    
 - **10:30 - 11:00**: Coffee Break  
 - **11:00 - 12:20**: AI for neonatal brain monitoring | abstract presentations
-  >- *Péter Földesy: Intelligent Surveillance and Behavioral Analysis Systems for Neonatal Care: Database Development, Device Innovation, and AI-Assisted Monitoring*
+  >- *Miklós Szabó: Intelligent Surveillance and Behavioral Analysis Systems for Neonatal Care: Database Development, Device Innovation, and AI-Assisted Monitoring*
   >- *Tamara Skoric: AdaBoost for neonatal seizure detection using single-channel EEG*
   >- *Jürgen Graf: Towards unobtrusive sleep stage classification in preterm infants using machine learning*
   >- *Saeed Montazeri: Emergence of Brain State Fluctuations during recovery from birth asphyxia: Revisiting the concept of Sleep-Wake Cycling*
