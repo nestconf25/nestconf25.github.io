@@ -40,3 +40,4 @@ Scientists (basic and applied), clinicians, and healthcare professionals with an
 The meeting will consist of keynote speakers, invited talks and short submitted presentations from researchers as well as a poster session ([program details](https://nestconf25.github.io/program/)).
 
 ![Partners]({{ '/assets/theme/images/partners.png' | relative_url }})
+[KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html), [UMC Utrecht](https://www.umcutrecht.nl/en), [Dynamics of Youth](https://www.uu.nl/en/research/dynamics-of-youth), [AI-4-NICU](https://ai4nicu.org/), [COST](https://www.cost.eu/)

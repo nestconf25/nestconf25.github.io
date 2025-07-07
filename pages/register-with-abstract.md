@@ -1,6 +1,6 @@
 ---
-title: Coming soon
+title: Registration
 permalink: /register-with-abstract/
 ---
 
-Registration will open soon.
+**Registration is closed.**
