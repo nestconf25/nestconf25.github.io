@@ -1,5 +1,5 @@
 ---
-title: Registration
+title: Registration with abstract
 permalink: /register-with-abstract/
 ---
 
