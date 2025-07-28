@@ -9,7 +9,7 @@ permalink: /program/
 ##### Morning
 - **08:30 - 09:15**: Registration and welcome coffee  
 - **09:15 - 09:30**: Opening Remarks  
-- **09:30 - 10:30**: Infant sleep after the NICU | keynote
+- **09:30 - 10:30**: Impact of Sleep and Sleep Disorders in Infancy on Neurodevelopment | keynote
   >***Speaker**: Madeleine Grigg-Damberger (Professor of Neurology, University of New Mexico School of Medicine)*  
 - **10:30 - 11:00**: Neonatal sleep in various patient cohorts | talk
   >***Speaker**: Anneleen Dereymaeker (Neonatologist, University Hospitals Leuven)* 
