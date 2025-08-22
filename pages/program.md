@@ -22,7 +22,7 @@ permalink: /program/
 
 ##### Afternoon
 - **12:50 - 14:00**: Lunch  
-- **14:00 - 14:30**: Sleep-disordered breathing in neonates | talk
+- **14:00 - 14:30**: Infant position and sleep-disordered breathing in the NICU | talk
   >***Speaker**: Renée Shellhaas (Pediatric Neurologist, Washington University School of Medicine)*    
 - **14:30 - 15:30**: Soothing and sleeping | abstract presentations
   >- *Margreet Harskamp: Similarities and Differences Between Fathers and Mothers in Needs, Experiences, and Application of Soothing & Sleeping*  
