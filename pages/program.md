@@ -7,13 +7,13 @@ permalink: /program/
 
 #### Day 1: Wednesday, 3 September 2025
 ##### Morning
-- **08:30 - 09:15**: Registration and welcome coffee  
+- **08:30 - 09:15**: Registration and welcome  
 - **09:15 - 09:30**: Opening Remarks  
 - **09:30 - 10:30**: Impact of Sleep and Sleep Disorders in Infancy on Neurodevelopment | keynote
   >***Speaker**: Madeleine Grigg-Damberger (Professor of Neurology, University of New Mexico School of Medicine)*  
 - **10:30 - 11:00**: Neonatal sleep in various patient cohorts | talk
   >***Speaker**: Anneleen Dereymaeker (Neonatologist, University Hospitals Leuven)* 
-- **11:00 - 11:20**: Coffee Break  
+- **11:00 - 11:20**: Break  
 - **11:30 - 12:50**: Infant sleep in the NICU | abstract presentations
 >- *Leonie Paciello: Sleep in children born preterm – A report from Tuebingen’s follow up-cohort study*
 >- *Aoife Walsh: A Pilot Study: Using Electroencephalography (EEG) to Assess the Impact of Encephalopathy on Sleep Architecture in Newborn Infants*
@@ -22,7 +22,7 @@ permalink: /program/
 
 ##### Afternoon
 - **12:50 - 14:00**: Lunch  
-- **14:00 - 14:30**: TBD | talk
+- **14:00 - 14:30**: Sleep-disordered breathing in neonates | talk
   >***Speaker**: Renée Shellhaas (Pediatric Neurologist, Washington University School of Medicine)*    
 - **14:30 - 15:30**: Soothing and sleeping | abstract presentations
   >- *Margreet Harskamp: Similarities and Differences Between Fathers and Mothers in Needs, Experiences, and Application of Soothing & Sleeping*  
