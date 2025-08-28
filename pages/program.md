@@ -25,7 +25,7 @@ permalink: /program/
 - **14:00 - 14:30**: Infant position and sleep-disordered breathing in the NICU | talk
   >***Speaker**: Renée Shellhaas (Pediatric Neurologist, Washington University School of Medicine)*    
 - **14:30 - 15:30**: Soothing and sleeping | abstract presentations
-  >- *Margreet Harskamp: Similarities and Differences Between Fathers and Mothers in Needs, Experiences, and Application of Soothing & Sleeping*  
+  >- *Margreet Harskamp: Soothing & Sleeping for infant crying involves both parents*  
   >- *Rachel Howard: Kangaroo Care and Its Effect on Sleep in Preterm Infants: A Scoping Review*
   >- *TBD: Monitoring the Effects of Kangaroo Care*
 <!-- Add empty line to prevent overflow of previous line -->
