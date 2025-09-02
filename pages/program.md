@@ -33,7 +33,7 @@ permalink: /program/
   <li style="list-style: none;"></li>  
 </ul>
 - **15:30 - 16:30**: Poster session with coffee
-  >- *Ömer Gürkan Dilek: AI Technologies in Neonatal Brain Health Monitoring*
+  <!-- >- *Ömer Gürkan Dilek: AI Technologies in Neonatal Brain Health Monitoring* -->
   >- *Margreet Harskamp: Usage of Snoo smart cribs by families on medical advice by Youth Health Care*
   >- *Jovana Kljajic: Forecasting Individual Seizure Risk in Neonatal Hypoxic-ischemic Encephalopathy Using Machine Learning*
   >- *John O'Toole: AI detection of neonatal EEG abnormalities*
