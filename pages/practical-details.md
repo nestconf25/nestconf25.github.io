@@ -4,9 +4,18 @@ permalink: /practical-details/
 ---
 
 ## Venue
-The conference will be held at:  
-**Groot Begijnhof, Leuven, Belgium** ([view on map](https://maps.app.goo.gl/ajwLvHic5te59d6G9))  
-Further details will be provided soon.
+The conference will be held at Leuven's UNESCO-protected Grand Beguinage.
+
+The entrance is at the **Faculty Club in Leuven**:
+* [Google maps link](https://maps.app.goo.gl/MYJngQXK1kypFaC47)
+* [Directions on their website](https://www.facultyclub.be/en/contact?lang=en) 
+
+![Entrance]({{ '/assets/theme/images/Entrance_Faculty_Club_Leuven.png' | relative_url }})
+
+From the entrance, signposts will guide you to the symposium.
+
+## Conference dinner
+The event will include a conference dinner on Wednesday (for those who registered), 3 September, also at the Faculty Club in Leuven ([view on map](https://maps.app.goo.gl/gJyZwQVSbbmLNznk9)). 
 
 ## Accomodation
 The veneu is located in Southern part of the city center. Please find some suggestions for hotels below (incl. walking distance).
@@ -25,6 +34,3 @@ The veneu is located in Southern part of the city center. Please find some sugge
 **€€€**  
 [Begijnhof Hotel Leuven](https://bchotel.be/en/home-2/) (3 mins)  
 [Kloosterhotel](https://www.martinshotels.com/en/page/martins-klooster/martins-klooster-4-hotel-louvain-official-website.11057.html) (15 mins)  
-
-## Conference dinner
-The event will include a conference dinner on Wednesday, 3 September at the Faculty Club in Leuven, located near the conference venue ([view on map](https://maps.app.goo.gl/gJyZwQVSbbmLNznk9)). 
