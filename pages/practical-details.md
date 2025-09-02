@@ -10,7 +10,7 @@ The entrance is at the **Faculty Club in Leuven**:
 * [Google maps link](https://maps.app.goo.gl/MYJngQXK1kypFaC47)
 * [Directions on their website](https://www.facultyclub.be/en/contact?lang=en) 
 
-![Entrance]({{ '/assets/theme/images/Entrance_Faculty_Club_Leuven.png' | relative_url }})
+![Entrance](https://www.flandersconventionbureau.com/sites/default/files/media/images/2022-06/Faculty_Club_Leuven_3_Piet_De_Kersgieter.jpg)
 
 From the entrance, signposts will guide you to the symposium.
 
