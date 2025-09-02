@@ -11,7 +11,7 @@ permalink: /program/
 - **09:15 - 09:30**: Opening Remarks  
 - **09:30 - 10:30**: Impact of Sleep and Sleep Disorders in Infancy on Neurodevelopment | keynote
   >***Speaker**: Madeleine Grigg-Damberger (Professor of Neurology, University of New Mexico School of Medicine)*  
-- **10:30 - 11:00**: Neonatal sleep in various patient cohorts | talk
+- **10:30 - 11:00**: Data-driven interpretation of EEG in different patient cohorts | talk
   >***Speaker**: Anneleen Dereymaeker (Neonatologist, University Hospitals Leuven)* 
 - **11:00 - 11:20**: Break  
 - **11:30 - 12:50**: Infant sleep in the NICU | abstract presentations
