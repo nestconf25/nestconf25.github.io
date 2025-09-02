@@ -58,7 +58,7 @@ permalink: /program/
 
 - **09:00 - 10:00**: Apnoea and infant brain development | keynote 
   >***Speaker**: Caroline Hartley (Associate Professor Paediatric Neuroimaging, University of Oxford)*  
-- **10:00 - 10:30**: Federated learning for neonatal brain monitoring | talk
+- **10:00 - 10:30**: Federated learning for infant sleep monitoring | talk
   >***Speaker**: Sampsa Vanhatalo (Professor in Physiology, University of Helsinki)*    
 - **10:30 - 11:00**: Coffee Break  
 - **11:00 - 12:20**: AI for neonatal brain monitoring | abstract presentations
