@@ -27,7 +27,7 @@ permalink: /program/
 - **14:30 - 15:30**: Soothing and sleeping | abstract presentations
   >- *Margreet Harskamp: Soothing & Sleeping for infant crying involves both parents*  
   >- *Rachel Howard: Kangaroo Care and Its Effect on Sleep in Preterm Infants: A Scoping Review*
-  >- *TBD: Monitoring the Effects of Kangaroo Care*
+  >- *Jeroen Dudink: Sleep and kangaroo care: first results*
 <!-- Add empty line to prevent overflow of previous line -->
 <ul>
   <li style="list-style: none;"></li>  
@@ -44,10 +44,10 @@ permalink: /program/
   <li style="list-style: none;"></li>  
 </ul>
 - **16:30 - 18:00**: Towards a NICU sleep bundle | Interactive workshop & white paper co-creation
-  >- *Juliane Köberlein-Neu (Professor of Health Services Research and Health Economic Evaluation, University of Wuppertal)*  
   >- *Christy Gliniak (Neonatal Occupational Therapist, MultiCare Deaconess Hospital, Washington)*  
   >- *Jeroen Dudink (Neonatologist, Wilhelmina Children’s Hospital, Utrecht)*  
-  >- *Eline de Groot (Postdoc at Early Childhood Community of Dynamics of Youth, Utrecht University)*  
+  >- *Alisha Blum (Tübingen University, Germany)*
+  >- *Leonie Paciello (Tübingen University Hospital, Germany)*
 
 ##### Evening
 - **18:30 - 21:00**: Conference Dinner 
@@ -58,7 +58,7 @@ permalink: /program/
 
 - **09:00 - 10:00**: Apnoea and infant brain development | keynote 
   >***Speaker**: Caroline Hartley (Associate Professor Paediatric Neuroimaging, University of Oxford)*  
-- **10:00 - 10:30**: Federated learning for infant sleep monitoring | talk
+- **10:00 - 10:30**: Extended federated learning for infant sleep monitoring | talk
   >***Speaker**: Sampsa Vanhatalo (Professor in Physiology, University of Helsinki)*    
 - **10:30 - 11:00**: Coffee Break  
 - **11:00 - 12:20**: AI for neonatal brain monitoring | abstract presentations
