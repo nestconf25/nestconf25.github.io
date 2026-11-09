@@ -6,7 +6,7 @@ This repo is a fork from [this repo](https://github.com/biomedepi/seizure_detect
 
 ## Website
 
-https://nest-ai4nicu.github.io
+[https://nest-ai4nicu.github.io](https://nestconf25.github.io/)
 
 
 _The instructions below can be adapted/included in the README of your site repository._
